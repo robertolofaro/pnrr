@@ -24,3 +24,6 @@ And article providing a visual summary of both the contributions on the PNRR pro
 A discussion of the December version of the PNRR, vs. the #NextGenerationEU is available since 2020-12-17 on https://issuu.com/robertolofaro/docs/20201217_issuu_preview
 
 For further updates, follow on Twitter @changerulebook
+
+Reference version of the PNRR: updated version released on 2021-04-26 at 13:57 (information from senato.it, the Italian Senate website) http://senato.it/application/xmanager/projects/leg18/file/Finale_PNRR.pdf
+
