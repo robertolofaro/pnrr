@@ -1,0 +1,10 @@
+camera.txt
+discorsodraghi_camera.txt
+discorsodraghi.txt
+Finale_PNRR_26_aprile_1357.pdf
+Finale_PNRR_26_aprile_1357.txt
+list.txt
+README.md
+sed. 320_360135.pdf
+senato.txt
+stenografico.pdf
